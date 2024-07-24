@@ -1,2 +1,3 @@
+.idea
 /car-shipping/vendor/
-/car-shipping-management/node_modules/
+/car-shipping-management/node_modules/*
